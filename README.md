@@ -1,1 +1,2 @@
-# Plane-Seat-Reservation-System
+# p2-proj1
+PIA Seat Reservation System
